@@ -1,0 +1,15 @@
+/mnt/e/docker/JsonCreater/bin/Debug/net8.0/JsonCreater
+/mnt/e/docker/JsonCreater/bin/Debug/net8.0/JsonCreater.deps.json
+/mnt/e/docker/JsonCreater/bin/Debug/net8.0/JsonCreater.runtimeconfig.json
+/mnt/e/docker/JsonCreater/bin/Debug/net8.0/JsonCreater.dll
+/mnt/e/docker/JsonCreater/bin/Debug/net8.0/JsonCreater.pdb
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.AssemblyInfoInputs.cache
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.AssemblyInfo.cs
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.csproj.CoreCompileInputs.cache
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.sourcelink.json
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.dll
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/refint/JsonCreater.dll
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.pdb
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/JsonCreater.genruntimeconfig.cache
+/mnt/e/docker/JsonCreater/obj/Debug/net8.0/ref/JsonCreater.dll

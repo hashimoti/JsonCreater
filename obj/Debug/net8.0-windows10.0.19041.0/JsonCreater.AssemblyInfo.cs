@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JsonCreater")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e004005f756ee6a19d0ba106bfdaa3cb9e32dc9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bcae0a488467adb66b00d7a03a8cc5f9ebb9367")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonCreater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonCreater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
